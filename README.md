@@ -1,6 +1,6 @@
 # Blender rendering helper for macOS and Linux
 
-This script written in Python allows you to render Blender animation in multiple times. You can choose how many frames will render and choose the time between each session. This script is **only for Linux and macOS**, but I will try to update it soon for Windows users. This project is made for people who have an old PC or a PC with small capacity.
+This script written in Python allows you to render Blender animation in multiple times. The script renders each frame one by one, saves them in Blender’s default output folder, and creates a 24fps video from the PNG files.. You can choose how many frames will render and choose the time between each session. This script is **only for Linux and macOS**, but I will try to update it soon for Windows users. This project is made for people who have an old PC or a PC with small capacity.
 
 ## How to install
 
